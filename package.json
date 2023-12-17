@@ -1,0 +1,21 @@
+{
+  "name": "proyectiou3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "Index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeMP12/paginaWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeMP12/paginaWeb/issues"
+  },
+  "homepage": "https://github.com/ValeMP12/paginaWeb#readme"
+}
